@@ -1,0 +1,30 @@
+header, ul, li{
+  display: flex;
+  background-color: black;
+}
+a{
+  text-decoration: none;
+  color: white;
+  padding-right: 30px;
+  line-height: 35px;
+}
+.card{
+  background-color: #A1C4FD;
+}
+.slider-img{
+  padding-top: 20px;
+  width: 1300px;
+  padding-left: 16px;
+}
+.image{
+  float: left;
+  width: 240px;
+  padding-left: 16px;
+  padding-top: 16px;
+  padding-right: 16px;
+}
+.p-text{
+  column-count: 4;
+  column-rule: 2px solid black;
+  column-fill: balance;
+}
